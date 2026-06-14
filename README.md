@@ -89,9 +89,4 @@ This project was built in **Google Colab**.
 3. Tune learning rate and observe the impact  
 4. Analyze the final prediction plots and metrics
 
----
-
-## 🧑‍💻 Author
-
-** Konuganti Himavarshit Reddy **
-** Email: himavarshitreddyk@gmail.com **  
+--- 
